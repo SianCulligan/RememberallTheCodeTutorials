@@ -1,0 +1,23 @@
+html { 
+    background: url(https://wallpaperaccess.com/full/367857.jpg) no-repeat center center fixed; 
+    background-size: cover;
+  }
+
+body { 
+    margin: 0; 
+    padding: 0; 
+} 
+
+.spotlight { 
+    position: absolute; 
+    width: 100%; 
+    height: 100%; 
+} 
+
+/* Hello and welcome Rememberall The Code, a channel where us muggles show you how to do some magical things with code. 
+
+Today we'll be reviewing how to outline your text - the most common place you'll see this across the internet is in memes, but this is especially handy when you have a site with a busy background and need the text to really pop */
+
+/* Without further ado, let's hop into the code.  */
+
+/* The best part about code, you can complete the same effect about a thousand different ways - so if you woud have done it differently, let us know in the comments! That's all from me, if you feel like you learned something from this tutprial ,be sure to give our video a like & subscribe so you're always the first to know when we post new tutorials! . */

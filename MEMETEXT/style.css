@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
+html { 
+    background: url(https://images.unsplash.com/photo-1509324115438-cafd17deefdb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80) no-repeat center center fixed;
+    /* background: url(https://wallpapercave.com/wp/wp4406804.gif) no-repeat center center fixed;  */
+    background-size: cover;
+    font-family: 'Jolly Lodger', cursive;
+    text-align: center;
+
+    /* The best part about code, you can complete the same effect about a thousand different ways - so if you would have done it differently, let us know in the comments! If you feel like you learned something from this tutorial, be sure to give our video a like & subscribe so you're always the first to know when we post new tutorials! */
+  }
+
+
+
+h1, p, h2 {
+    color:whitesmoke;
+
+    text-shadow:
+    2px 2px 0  rgb(25, 24, 26),
+    -2px -2px 0  rgb(25, 24, 26),
+    2px -2px 0  rgb(25, 24, 26),
+    -2px 2px 0  rgb(25, 24, 26),
+    0px 2px 0  rgb(25, 24, 26), 
+    2px 0px 0  rgb(25, 24, 26),
+    0px -2px 0  rgb(25, 24, 26),
+    -2px 0px 0  rgb(25, 24, 26),
+     2px 2px 10px  rgb(25, 24, 26);
+}
+
+/* Hello and welcome to Rememberall The Code, a channel where us muggles show you a little behind the scenes of our projects and teach you how to do some magical things with code. 
+
+Today we'll be reviewing how to outline your text - one of the most common example you'll find this in across the internet is in memes, but this is especially handy when you have a site with a busy background and need the text to really pop */
+
+/* Without further ado, let's hop into the code.  */
+
+
+
+
+
+
+
+body { 
+    margin: 0px auto; 
+    padding: 0; 
+    width: 70%;
+} 
+
+
+h1 { 
+    font-size: 8vh;
+}
+
+p {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 4em;
+}
